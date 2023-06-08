@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ****** These strings are of individual example titles which appear in
+    each example's recyclerview card ****** -->
+
+    <string name="activity_basic_simple_mapview_title">Create map with code</string>
+    <string name="activity_basic_support_map_frag_title">Create map with fragment</string>
+    <string name="activity_basic_init_with_building_title">Create map (Specify the initial building,floor and building adaptive margin)</string>
+    <string name="activity_basic_init_with_poi_title">Create map (Specify the POI and zoom level)</string>
+
+    <string name="activity_indoor_map_controller_title">Interaction of indoor map controller </string>
+    <string name="activity_styles_default_title">Map style setting</string>
+    <string name="activity_gesture_interaction_for_switching_building">Gesture interaction for switching buildings</string>
+    <string name="activity_camera_animate_title">Method interaction(Switching indoor scenes)</string>
+    <string name="activity_listener_click_title">Click event listener</string>
+    <string name="activity_listener_building_floor_change_title">Indoor scene switching event listener</string>
+    <string name="activity_listener_camera_change_listener_title">Get in or leave indoor scene event listener </string>
+
+    <string name="activity_annotation_marker_title">Drawing markers by floor</string>
+    <string name="activity_annotation_polygon_title">Drawing polygons by floor</string>
+
+    <string name="activity_display_location_title">Indoor positioning </string>
+
+    <string name="activity_search_service_building_global_title">Search building globally </string>
+    <string name="activity_search_service_building_in_bound_title">Search building in the specified area </string>
+    <string name="activity_search_service_building_nearby_title">Search building nearby </string>
+    <string name="activity_search_service_building_by_id_title">Search building by building id </string>
+    <string name="activity_search_service_poi_categories_in_building_title">Get the POI categories by building or floor  </string>
+    <string name="activity_search_service_poi_in_building_title">Search POI in the specified scene</string>
+    <string name="activity_search_service_poi_in_bound_title">Search POI in the specified area </string>
+    <string name="activity_search_service_poi_nearby_title">Search POI nearby </string>
+    <string name="activity_search_service_poi_by_id_title">Search POI by POI ID </string>
+
+    <string name="activity_search_service_poi_with_orientation_title">Surrounding environment recognition </string>
+    <string name="activity_search_service_route_planning_title">Route planning and navigation  </string>
+    <string name="activity_visual_map_title">Visual map</string>
+    <string name="activity_explore_building_title">Explore building </string>
+
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ****** These strings are of individual example titles which appear in
+    each example's recyclerview card ****** -->
+
+    <string name="activity_basic_simple_mapview_title">創建地圖（代碼）</string>
+    <string name="activity_basic_support_map_frag_title">用Fragment顯示地圖</string>
+    <string name="activity_basic_init_with_building_title">創建地圖（指定初始建築，樓層及建築自適應邊距）</string>
+    <string name="activity_basic_init_with_poi_title">創建地圖（指定初始POI及地圖縮放等級）</string>
+
+    <string name="activity_indoor_map_controller_title">室內地圖控件交互 </string>
+    <string name="activity_styles_default_title">修改地圖外觀</string>
+    <string name="activity_gesture_interaction_for_switching_building">切換建築的手勢交互</string>
+    <string name="activity_camera_animate_title">方法交互（切換室內場景）</string>
+    <string name="activity_listener_click_title">事件交互（監聽點擊）</string>
+    <string name="activity_listener_building_floor_change_title">事件交互（監聽室內場景切換）</string>
+    <string name="activity_listener_camera_change_listener_title">事件交互（監聽進出室內場景）</string>
+
+    <string name="activity_annotation_marker_title">按樓層繪制標注</string>
+    <string name="activity_annotation_polygon_title">按樓層繪制多邊形</string>
+
+    <string name="activity_display_location_title">室內定位效果展示</string>
+
+    <string name="activity_search_service_building_global_title">全球範圍內搜索建築</string>
+    <string name="activity_search_service_building_in_bound_title">指定矩形區域內搜索建築 </string>
+    <string name="activity_search_service_building_nearby_title">在附近搜索建築</string>
+    <string name="activity_search_service_building_by_id_title">指定建築ID搜索建築 </string>
+    <string name="activity_search_service_poi_categories_in_building_title">獲取指定場景內包含的POI分類 </string>
+    <string name="activity_search_service_poi_in_building_title">指定場景內POI搜索</string>
+    <string name="activity_search_service_poi_in_bound_title">指定矩形區域內搜索POI </string>
+    <string name="activity_search_service_poi_nearby_title">周邊POI搜索 </string>
+    <string name="activity_search_service_poi_by_id_title">指定POI ID搜索 </string>
+
+    <string name="activity_search_service_poi_with_orientation_title">周邊環境識別 </string>
+    <string name="activity_search_service_route_planning_title">路線規劃與路線吸附</string>
+    <string name="activity_visual_map_title">Visual map </string>
+    <string name="activity_explore_building_title">Explore搜索 </string>
+
+</resources>

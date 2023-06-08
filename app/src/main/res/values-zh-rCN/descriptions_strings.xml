@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- ****** These strings are of individual example descriptions which appear in
+    each example's recyclerview card ****** -->
+
+    <string name="activity_basic_simple_mapview_description">通过代码创建地图。</string>
+    <string name="activity_basic_support_map_frag_description">在您的app内包含一个Fragment创建的地图。</string>
+    <string name="activity_basic_init_with_building_description">创建地图时在设置的边距范围内最大化显示指定的建筑并切换到设置楼层。</string>
+    <string name="activity_basic_init_with_poi_description">创建地图时在地图中心显示指定的POI，并设置地图缩放等级。</string>
+
+    <string name="activity_indoor_map_controller_description">室内地图控件的位置。 </string>
+    <string name="activity_styles_default_description">修改地图配色，标注语言及控制室外地图隐藏。</string>
+    <string name="activity_gesture_interaction_for_switching_building_description">设置切换建筑手势。</string>
+    <string name="activity_camera_animate_description">代码设置聚焦的室内场景。</string>
+    <string name="activity_listener_click_description">监听单击、长按地图事件，单击POI事件。</string>
+    <string name="activity_listener_building_floor_change_description">监听室内场景切换事件。</string>
+    <string name="activity_listener_camera_change_listener_description">监听进出室内场景事件。 </string>
+
+    <string name="activity_annotation_default_marker_description">当前场景只显示对应楼层的标注。</string>
+    <string name="activity_annotation_polygon_description">当前场景只显示对应楼层的绘制多边形。</string>
+
+    <string name="activity_display_location_description">展示室内定位及地图跟随的效果。</string>
+
+    <string name="activity_search_service_building_global_description">在全球范围内搜索建筑。 </string>
+    <string name="activity_search_service_building_in_bound_description">在指定的矩形区域内搜索建筑。 </string>
+    <string name="activity_search_service_building_nearby_description">在指定的圆形区域内搜索建筑。 </string>
+    <string name="activity_search_service_building_by_id_description">按ID搜索建筑。 </string>
+    <string name="activity_search_service_poi_category_in_building_description">获取指定建筑或楼层内所有包含的分类。 </string>
+    <string name="activity_search_service_poi_in_building_description">在指定场景内搜索POI。 </string>
+    <string name="activity_search_service_poi_in_bound_description">在指定的矩形区域内搜索POI。 </string>
+    <string name="activity_search_service_poi_nearby_description">在指定圆形区域内搜索POI。</string>
+    <string name="activity_search_service_poi_by_id_description">按ID搜索POI。 </string>
+
+    <string name="activity_search_service_poi_with_orientation_description">制作虚拟定位并识别定位周边POI信息。</string>
+    <string name="activity_search_service_route_planning_description">检索起始点间的路线并实现路网吸附、缩短功能。</string>
+    <string name="activity_visual_map_description">介绍Visual的集成。 </string>
+    <string name="activity_explore_building_description">介绍建筑内POI常见搜索的集成。</string>
+
+</resources>
